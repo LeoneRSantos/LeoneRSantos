@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
 -->
+- 🌱 I’m currently studying in the IV period of the University.
+-  📫 How to reach me: leonesantos@aluno.uespi.br
 
 <div align="">
   <a href="https://github.com/LeoneRSantos">
