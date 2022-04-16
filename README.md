@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 # Hey, there! I'm Leone Rodrigues.
 - 🌱 I’m currently studying  Computer Science in the V period of the University.
 -  📫 How to reach me: leonesantos@aluno.uespi.br
+
+
+<div align="center">
+  <a href="https://github.com/LeoneRSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoneRSantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneRSantos&layout=compact&langs_count=7&theme=algolia"/>
+</div>
