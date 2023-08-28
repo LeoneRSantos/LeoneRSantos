@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 # Hey, there! I'm Leone Rodrigues.
-- 🌱 I’m currently studying  Computer Science in the V period of the University.
+- 🌱 I’m currently studying  Computer Science in the VIII period of the University.
 -  📫 How to reach me: leonesantos@aluno.uespi.br
 -  Linkedin: https://www.linkedin.com/in/leone-rodrigues-santos
 
