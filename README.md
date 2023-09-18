@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -  Linkedin: https://www.linkedin.com/in/leone-rodrigues-santos
 
 
-<div align="center">
-  <a href="https://github.com/LeoneRSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoneRSantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneRSantos&layout=compact&langs_count=7&theme=algolia"/>
+<div>
+<a href="https://github.com/LeoneRSantos">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneRSantos&layout=compact&langs_count=7&theme=graywhite"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoneRSantos&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
